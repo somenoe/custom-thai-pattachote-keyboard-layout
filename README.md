@@ -11,5 +11,5 @@ You’ll need the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.micros
 
 ## The Final Layout
 
-![Base layout](/images/base.jpg)
-![Shift layout](/images/shift.jpg)
+![Base layout](/images/base.png)
+![Shift layout](/images/shift.png)
